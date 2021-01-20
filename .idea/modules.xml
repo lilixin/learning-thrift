@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learning-thrift.iml" filepath="$PROJECT_DIR$/learning-thrift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thrift-rpc-client/thrift-rpc-client.iml" filepath="$PROJECT_DIR$/thrift-rpc-client/thrift-rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thrift-rpc-interface/thrift-rpc-interface.iml" filepath="$PROJECT_DIR$/thrift-rpc-interface/thrift-rpc-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thrift-rpc-server/thrift-rpc-server.iml" filepath="$PROJECT_DIR$/thrift-rpc-server/thrift-rpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thrift-rpc-service/thrift-rpc-service.iml" filepath="$PROJECT_DIR$/thrift-rpc-service/thrift-rpc-service.iml" />
+    </modules>
+  </component>
+</project>
